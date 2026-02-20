@@ -5,7 +5,7 @@ This is my first Docker project for roadmap.sh.
 
 ## Requirements
 * Base image :'alpine:latest'
-* Action: Prints "Hello, Captain!" before exiting.
+* Action: Prints "Hello, Captain!" before exiting
   
 ## How to run
 1.Build the image:
