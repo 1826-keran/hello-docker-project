@@ -1,13 +1,12 @@
 
-#hello Captain Project 
-This is my first Docker Project.
-Project Link: https://roadmap.sh/projects/docker-hello-world
-=======
 # Hello Captain Docker Project
-this is a basic Docker Project created as a learning exercise.It demonstrates how to write a "Dockerfile",build a custom image,and run a container
+
+This is a basic Docker Project  that creates an image tp print "Hello, Captain!" to the console.
+
 ## Requirements
-* The base image is 'alpine:latest' .
-* it prints "Hello, Captain!" to the console upon execution.
+* Base image :'alpine:latest'
+* Action: Prints "Hello, Captain!" before exiting.
+  
 ## How to run
 1.Build the image:
  'docker build -t hello-captain .'
@@ -16,4 +15,4 @@ this is a basic Docker Project created as a learning exercise.It demonstrates ho
 
 Project Link:
 https://roadmap.sh/projects/docker-hello-world
->>>>>>> bf9f805000ad94abb02f90d9b9017695f240940d
+
