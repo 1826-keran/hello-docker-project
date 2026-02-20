@@ -1,7 +1,7 @@
 
 # Hello Captain Docker Project
 
-This project creates a Docker image that  prints "Hello, Captain!" to the console.
+This is my first Docker project for roadmap.sh.
 
 ## Requirements
 * Base image :'alpine:latest'
