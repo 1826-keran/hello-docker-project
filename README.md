@@ -1,7 +1,7 @@
 
 # Hello Captain Docker Project
 
-This is a basic Docker Project  that creates an image tp print "Hello, Captain!" to the console.
+This project creates a Docker image that  prints "Hello, Captain!" to the console.
 
 ## Requirements
 * Base image :'alpine:latest'
