@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #hello Captain Project 
 This is my first Docker Project.
 Project Link: https://roadmap.sh/projects/docker-hello-world
